@@ -1,0 +1,24 @@
+{
+  "name": "timer-manager",
+  "version": "1.0.0",
+  "description": "easy to create a timer with a keyname and easy to remove with that keyname ",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhacker5000/timer-manager.git"
+  },
+  "keywords": [
+    "timer",
+    "time-manager",
+    "timer-manager"
+  ],
+  "author": "Xhacker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhacker5000/timer-manager/issues"
+  },
+  "homepage": "https://github.com/xhacker5000/timer-manager#readme"
+}
