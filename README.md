@@ -22,7 +22,7 @@ npm install timer-manager --save-dev
 
 ```
 
-*removeTimer
+* removeTimer
 ```javascript
 	
 	Timer.removeElement('testTimer');

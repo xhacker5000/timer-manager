@@ -2,7 +2,7 @@
   "name": "timer-manager",
   "version": "1.0.0",
   "description": "easy to create a timer with a keyname and easy to remove with that keyname ",
-  "main": "timer.js",
+  "main": "lib/timer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
